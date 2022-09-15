@@ -9,7 +9,7 @@ body {
 }
 /* -----------------Header-------------- */
 .header-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
@@ -18,7 +18,7 @@ body {
         color: #2196F3;
 }
 .header-studio {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
@@ -27,7 +27,6 @@ body {
         color: #000000;
 }
 .header-link {
-    font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 1.14;
@@ -35,7 +34,6 @@ body {
         color: #212121;
 }
 .header-contacts {
-font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -52,7 +50,6 @@ font-style: normal;
 }
 /* -----------------Hero-------------- */
 .hero-title{
-    font-style: normal;
         font-weight: 900;
         font-size: 44px;
         line-height: 1.36;
@@ -75,7 +72,6 @@ font-style: normal;
 }
 /* -----------------Наші переваги-------------- */
 .advantages-subtitle{
-    font-style: normal;
         font-weight: 700;
         font-size: 14px;
         line-height: 1.14;
@@ -84,8 +80,6 @@ font-style: normal;
         color: #212121;
 }
 .advantages-text{
-    font-style: normal;
-        font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
@@ -93,7 +87,6 @@ font-style: normal;
 }
 /* -----------------Чим ми займаємося-------------- */
 .work-title{
-    font-style: normal;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.17;
@@ -102,14 +95,13 @@ font-style: normal;
 }
 /* -----------------Наша Команда-------------- */
 .team-title{
-    font-weight: 700;
+        font-weight: 700;
         font-size: 36px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         color: #212121;
 }
 .team-name{
-    font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.19;
@@ -118,8 +110,6 @@ font-style: normal;
         color: #212121;
 }
 .team-specialist{
-    font-style: normal;
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.19;
         text-align: center;
@@ -128,7 +118,7 @@ font-style: normal;
 }
 /* -----------------Footer-------------- */
 .footer-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
@@ -138,7 +128,7 @@ font-style: normal;
 }
 
 .footer-studio {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
@@ -147,16 +137,12 @@ font-style: normal;
     color: #000000;
 }
 .footer-link-adress{
-    font-style: normal;
-        font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
         color: #FFFFFF;
 }
 .footer-link-contacts{
-    font-style: normal;
-        font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
