@@ -30,6 +30,7 @@ body {
 }
 
 /* -----------------Header-------------- */
+
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -75,7 +76,9 @@ body {
 .header-contacts:focus {
   color: var(--accent-color);
 }
+
 /* -----------------Hero-------------- */
+
 .hero-title {
   font-weight: 900;
   font-size: 44px;
@@ -99,7 +102,9 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
+
 /* -----------------Наші переваги-------------- */
+
 .advantages-subtitle {
   font-weight: 700;
   font-size: 14px;
@@ -115,7 +120,9 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
 /* -----------------Чим ми займаємося-------------- */
+
 .work-title {
   font-weight: 700;
   font-size: 36px;
@@ -123,7 +130,9 @@ body {
   letter-spacing: 0.03em;
   color: #212121;
 }
+
 /* -----------------Наша Команда-------------- */
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -148,7 +157,9 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
 /* -----------------Footer-------------- */
+
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -195,4 +206,36 @@ body {
 .footer-link-contacts:hover,
 .footer-link-contacts:focus {
   color: var(--accent-color);
+}
+
+/* -----------------Портфоліоr-------------- */
+
+.portfolio-btn {
+  font-family: inherit;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  cursor: pointer;
+}
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+  color: var(--accent-color);
+}
+.portfolio-subtitle {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.portfolio-text {
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
